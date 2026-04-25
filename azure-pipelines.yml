@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  RegressionTesting
+  RegressionTestingPool
 
 steps:
 - task: Maven@4
